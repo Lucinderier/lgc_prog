@@ -1,4 +1,3 @@
-
 #qA
 def area_quadrado (lado):
     area = lado ** 2
@@ -31,4 +30,3 @@ area_quadrado(9, True)
 
 area_triangulo(6, 9) 
 area_triangulo(5, 8, True)  
-

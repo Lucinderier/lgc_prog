@@ -30,5 +30,3 @@ elif tipo == "impar":
             print(i, end=" ")
 else:
     print("Opção inválida. Por favor, escolha 'par' ou 'impar'.")
-
-
